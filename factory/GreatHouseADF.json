@@ -1,0 +1,9 @@
+{
+	"name": "GreatHouseADF",
+	"location": "southcentralus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "b2232eeb-6388-4888-a957-6ccc1b6bf5fe",
+		"tenantId": "cf36141c-ddd7-45a7-b073-111f66d0b30c"
+	}
+}

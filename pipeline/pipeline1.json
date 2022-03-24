@@ -15,7 +15,7 @@
 				},
 				"userProperties": [],
 				"typeProperties": {
-					"notebookPath": "/Users/khaled.abdessamia@avanade.com/GreatHouse_bronze_to_silver"
+					"notebookPath": "/Users/khaled.abdessamia@avanade.com/GreatHouse/GreatHouse_bronze_to_silver"
 				},
 				"linkedServiceName": {
 					"referenceName": "AzureDatabricks1",
@@ -42,7 +42,7 @@
 				},
 				"userProperties": [],
 				"typeProperties": {
-					"notebookPath": "/Users/khaled.abdessamia@avanade.com/GreatHouse_silver_to_gold"
+					"notebookPath": "/Users/khaled.abdessamia@avanade.com/GreatHouse/GreatHouse_silver_to_gold"
 				},
 				"linkedServiceName": {
 					"referenceName": "AzureDatabricks1",

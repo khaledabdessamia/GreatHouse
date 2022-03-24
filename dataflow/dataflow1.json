@@ -21,6 +21,10 @@
 			],
 			"sinks": [
 				{
+					"dataset": {
+						"referenceName": "stock",
+						"type": "DatasetReference"
+					},
 					"name": "sink1"
 				}
 			],
